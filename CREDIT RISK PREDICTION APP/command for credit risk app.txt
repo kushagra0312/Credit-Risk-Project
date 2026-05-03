@@ -1,0 +1,1 @@
+cd /d "D:\DATA ANALYST\LOAN PROJECT 1\CREDIT RISK PREDICTION APP" && streamlit run app.py
