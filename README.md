@@ -107,31 +107,31 @@ Credit-Risk-Project/
 ## 📈 Power BI Dashboards
 
 ### 1️⃣ Loan Portfolio Performance Overview
-![Dashboard 1](dashboard1_portfolio_overview.png)
+![Dashboard 1](POWER%20BI%20DASHBOARD/dashboard1_portfolio_overview.png)
 > Total disbursed ₹32.6Bn across 255K loans with 11.6% default rate. Business loans show highest expected loss at ₹1,822M. High Risk tier carries ₹3,217M in expected loss.
 
 ---
 
 ### 2️⃣ Credit Risk Driver Analysis
-![Dashboard 2](dashboard2_risk_driver_analysis.png)
+![Dashboard 2](POWER%20BI%20DASHBOARD/dashboard2_risk_driver_analysis.png)
 > High Risk borrowers default at 12.8% vs 10.4% for Low Risk. Low-income segment shows 17.4% default rate. Unemployed applicants default at 13.6% vs 9.5% for Full-time employees.
 
 ---
 
 ### 3️⃣ ML Model Output & Risk Scoring
-![Dashboard 3](dashboard3_ml_model_output.png)
+![Dashboard 3](POWER%20BI%20DASHBOARD/dashboard3_ml_model_output.png)
 > 255K loans scored — 39% Auto Approved, 42% Manual Review, 19% Auto Rejected. Model accurately separates defaulters from non-defaulters across all probability bands.
 
 ---
 
 ### 4️⃣ Credit Policy Simulation & Pareto Analysis
-![Dashboard 4](dashboard4_pareto_simulation.png)
+![Dashboard 4](POWER%20BI%20DASHBOARD/dashboard4_pareto_simulation.png)
 > High Risk tier alone accounts for 12,790 defaults vs 7,670 for Low Risk — validating Pareto concentration. Business loans carry highest expected loss across all risk tiers.
 
 ---
 
 ### 5️⃣ Business Insights & Strategic Recommendations
-![Dashboard 5](dashboard5_business_insights.png)
+![Dashboard 5](POWER%20BI%20DASHBOARD/dashboard5_business_insights.png)
 > 7 key business insights and 7 strategic recommendations derived from the full analysis to guide lending policy decisions.
 
 ---
